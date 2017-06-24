@@ -1,2 +1,4 @@
 # SecurePhpRestAPI
-You can secure your post from android to php server
+You can the secure your parameters Like JSON web Token.
+
+You can find the Android code there https://github.com/MhmdAlmz/SecureAndroidRestAPI
